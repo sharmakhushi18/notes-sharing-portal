@@ -11,4 +11,4 @@ Frontend, backend, and API code will be uploaded soon.
 ## Tech Stack
 - HTML, CSS, JavaScript
 - Node.js, Express.js
-- MongoDB
+- MongoDV
